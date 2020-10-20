@@ -11,7 +11,7 @@
 2. 从github下载
 
 ```git
-git clone https://github.com/dooioomoo/docker-bota.git ./
+git clone https://github.com/zavierlau/bato.git ./
 ```
 
 3. ``` copy .env-example .env ```
